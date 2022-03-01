@@ -1,6 +1,6 @@
 # Biodata
 
-Perkenalkan nama saya amir salim,dengan npm 140810210015 dengan domisili di bekasi.
+Perkenalkan nama saya amir salim,dengan npm 140810210015.domisili di bekasi.
 
 ## Hobi
 
